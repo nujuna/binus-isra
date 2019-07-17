@@ -1,0 +1,34 @@
+[
+	{
+		"key": 1,
+		"id": "#1200973091",
+		"name": "Pengkuh Ibnu Sudana",
+		"location": "All",
+		"accessControl": "Full Access",
+		"role": "Administrator"
+	},
+	{
+		"key": 2,
+		"id": "#1200973092",
+		"name": "A. Raditya",
+		"location": "Kampus Syahdan",
+		"accessControl": "Full Access",
+		"role": "Administrator"
+	},
+	{
+		"key": 3,
+		"id": "#1200973093",
+		"name": "Diana",
+		"location": "Kampus JWC",
+		"accessControl": "Admin QA",
+		"role": "Staff"
+	},
+	{
+		"key": 4,
+		"id": "#1200973094",
+		"name": "Edward",
+		"location": "Kampus Bandung",
+		"accessControl": "Admin QA",
+		"role": "Staff"
+	}
+]
