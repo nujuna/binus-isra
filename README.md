@@ -1,2 +1,0 @@
-# binus-isra
-BINUS - ISRA
