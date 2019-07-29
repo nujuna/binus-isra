@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1bfc073b-fbb0-47b8-9dd9-e05d08cefae6",
+    "question": "<p>Dosen Pembimbing memberikan bantuan yang memadai dalam hal metodologi selama pembuatan skripsi Anda.</p><p><em>Supervisor provide adequate assistance in the methodology during your thesis making.</em>\t</p>",
+    "questionNumber": 1,
+    "questionType": 1,
+    "requiredAnswer": true,
+    "scale": 5,
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "8fa749bc-1a16-4f07-9bbb-169facfbdf40",
+    "question": "<p>Dosen Pembimbing dapat menjawab dengan baik untuk semua pertanyaan yang Anda ajukan.</p><p><em>Supervisor can answer well for all questions you ask.</em></p>",
+    "questionNumber": 2,
+    "questionType": 1,
+    "requiredAnswer": true,
+    "scale": 5,
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "4261452e-1090-4d54-9643-a39e6fa82d96",
+    "question": "<p>Dosen Pembimbing sesuai dengan topik skripsi yang Anda pilih.</p><p><em>Supervisor in accordance with the thesis topic you choose.</em></p>",
+    "questionNumber": 3,
+    "questionType": 1,
+    "requiredAnswer": true,
+    "scale": 5,
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "d324a566-02f3-4298-a3b6-8d44f73465e9",
+    "question": "<p>Dosen Pembimbing memberikan saran dan masukan yang bermanfaat terhadap skripsi Anda.</p><p><em>Supervisor give useful suggestions and feedbacks on your thesis.</em></p>",
+    "questionNumber": 4,
+    "questionType": 1,
+    "requiredAnswer": true,
+    "scale": 5,
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "51a7f074-2f9f-4cfe-a37d-2e2e15ee96e6",
+    "question": "<p>Waktu yang disediakan untuk proses bimbingan skripsi sudah memadai.</p><p><em>The time provided for the process of thesis guidance is sufficient.</em></p>",
+    "questionNumber": 5,
+    "questionType": 1,
+    "requiredAnswer": true,
+    "scale": 5,
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "3a60d73c-0e61-4fe1-80a5-5a9ecff0d25d",
+    "question": "<p>Hal-hal yang perlu diperbaiki.</p><p><em>Things to be improved.</em></p>",
+    "questionNumber": 6,
+    "questionType": 3,
+    "requiredAnswer": false,
+    "scale": "",
+    "multipleBox": [
+      "<p>Cara Mengajar (Teaching method)</p>",
+      "<p>Sikap Dosen (Lecture's attitude)</p>",
+      "<p>Pemberian Nilai (Grading)</p>",
+      "<p>Komitmen (Commitment)</p>",
+      "<p>Lainnya (Others)</p>"
+    ]
+  },
+  {
+    "id": "bfb39d70-6d2a-4bca-8cf8-3b77ab7594da",
+    "question": "<p>Hal-hal yang perlu dipertahankan.</p><p><em>Things to be maintained.</em></p>",
+    "questionNumber": 7,
+    "questionType": 3,
+    "requiredAnswer": false,
+    "scale": "",
+    "multipleBox": [
+      "<p>Cara Mengajar (Teaching method)</p>",
+      "<p>Sikap Dosen (Lecture's attitude)</p>",
+      "<p>Pemberian Nilai (Grading)</p>",
+      "<p>Komitmen (Commitment)</p>",
+      "<p>Lainnya (Others)</p>"
+    ]
+  },
+  {
+    "id": "a408b7de-e534-483e-93b0-1f26830b6761",
+    "question": "<p>Bagaimana pendapat Anda tentang manfaat mempelajari mata kuliah ini.</p><p><em>Your opinion about the benefit of taking this course.</em></p>",
+    "questionNumber": 8,
+    "questionType": 2,
+    "requiredAnswer": false,
+    "scale": "",
+    "multipleBox": [
+      ""
+    ]
+  },
+  {
+    "id": "798e732d-3dde-40bd-8bda-9277cfb42061",
+    "question": "<p>Bagaimana pendapat Anda tentang tujuan mempelajari mata kuliah ini.</p><p><em>Your objective in taking this course.</em></p>",
+    "questionNumber": 9,
+    "questionType": 2,
+    "requiredAnswer": false,
+    "scale": "",
+    "multipleBox": [
+      ""
+    ]
+  }
+]

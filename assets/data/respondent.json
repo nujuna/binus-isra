@@ -1,0 +1,30 @@
+[
+	{
+		"instructor": "D0001 - Albert",
+		"courseTitle": "Skripsi",
+		"location": "Kampus Kemanggisan",
+		"class": "SK01",
+		"student": 24
+	},
+	{
+		"instructor": "D0002 - Patrick",
+		"courseTitle": "Skripsi",
+		"location": "Kampus Kemanggisan",
+		"class": "SK02",
+		"student": 32
+	},
+	{
+		"instructor": "D0003 - John",
+		"courseTitle": "Skripsi",
+		"location": "Kampus Kemanggisan",
+		"class": "SK03",
+		"student": 40
+	},
+	{
+		"instructor": "D0004 - Robert",
+		"courseTitle": "Skripsi",
+		"location": "Kampus Kemanggisan",
+		"class": "SK04",
+		"student": 38
+	}
+]

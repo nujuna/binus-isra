@@ -1,0 +1,42 @@
+[
+	{
+		"instructor": "D0001 - Albert",
+		"location": "Kampus Anggrek",
+		"courseCode": "THESIS6118",
+		"course": "Skripsi",
+		"class": "SK01",
+		"population": 24,
+		"completion": "23 (95.83%)",
+		"indexLecturer": 4.83
+	},
+	{
+		"instructor": "D0002 - Patrick",
+		"location": "Kampus Anggrek",
+		"courseCode": "THESIS6118",
+		"course": "Skripsi",
+		"class": "SK02",
+		"population": 32,
+		"completion": "30 (93.75%)",
+		"indexLecturer": 4.53
+	},
+	{
+		"instructor": "D0003 - John",
+		"location": "Kampus Anggrek",
+		"courseCode": "THESIS6118",
+		"course": "Skripsi",
+		"class": "SK03",
+		"population": 40,
+		"completion": "40 (100%)",
+		"indexLecturer": 4.76
+	},
+	{
+		"instructor": "D0004 - Robert",
+		"location": "Kampus Syahdan",
+		"courseCode": "THESIS6118",
+		"course": "Skripsi",
+		"class": "SK04",
+		"population": 30,
+		"completion": "25 (83.33%)",
+		"indexLecturer": 4.03
+	}
+]

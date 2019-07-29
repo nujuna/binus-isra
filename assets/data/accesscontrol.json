@@ -1,0 +1,14 @@
+[
+	{
+		"key": 1,
+		"id": "#SYSADMIN",
+		"name": "Full Access",
+		"modified": "01 May 2019 1 08:00:17"
+	},
+	{
+		"key": 2,
+		"id": "#ADMINQA",
+		"name": "Admin QA",
+		"modified": "01 May 2019 09:00:00"
+	}
+]

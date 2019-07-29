@@ -1,0 +1,46 @@
+[
+	{
+		"key": 1,
+		"id": "#SRV-HFGS",
+		"name": "Employee Engagement Survey 2019",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Draft"
+	},
+	{
+		"key": 2,
+		"id": "#SRV-CMNZ",
+		"name": "Partnership Satisfaction 2019",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Rejected"
+	},
+	{
+		"key": 3,
+		"id": "#SRV-JAHS",
+		"name": "Alumni Survey 2019",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "03/11/2019",
+		"modified": "03/11/2019",
+		"status": "Closed"
+	},
+	{
+		"key": 4,
+		"id": "#SRV-MXKJ",
+		"name": "Double Degree Student Satisfaction",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "02/28/2019",
+		"modified": "02/28/2019",
+		"status": "Closed"
+	}
+]

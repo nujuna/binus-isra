@@ -1,0 +1,58 @@
+[
+	{
+		"id": "#SRV-HGQV",
+		"name": "TLE for Thesis Student 2019",
+		"code": "FM-BINUS-AA-FSD-46/R3",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 1.281,
+		"completion": "550 (43%)",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-OKDS",
+		"name": "TLE for Collaborative Class 2019",
+		"code": "FM-BINUS-AA-FSD-61/R1",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 1.876,
+		"completion": "1.500 (80%)",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "02/28/2019",
+		"modified": "02/28/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-PKDH",
+		"name": "TLE for Creative Class 2019",
+		"code": "FM-BINUS-AA-FSD-60",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 2.042,
+		"completion": "2.001 (98%)",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "03/11/2019",
+		"modified": "03/11/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-BHZS",
+		"name": "TLE for Kapita Selekta 2019",
+		"code": "FM-BINUS-AA-FSD-59/R3",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 876,
+		"completion": "867 (99%)",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "04/16/2019",
+		"modified": "04/16/2019",
+		"status": "Open"
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"key": 1,
+		"id": "#SRV-HGQV",
+		"name": "TLE for Thesis Student 2019",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Draft"
+	},
+	{
+		"key": 2,
+		"id": "#SRV-QGST",
+		"name": "TLE for Kapita Selekta 2019",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "04/16/2019",
+		"modified": "04/16/2019",
+		"status": "Rejected"
+	},
+	{
+		"key": 3,
+		"id": "#SRV-PKDH",
+		"name": "TLE for Creative Class 2019",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "03/11/2019",
+		"modified": "03/11/2019",
+		"status": "Open"
+	},
+	{
+		"key": 4,
+		"id": "#SRV-BHZS",
+		"name": "TLE for Collaborative Class 2019",
+		"description": "",
+		"type": 2,
+		"creator": 1,
+		"created": "02/28/2019",
+		"modified": "02/28/2019",
+		"status": "Closed"
+	}
+]

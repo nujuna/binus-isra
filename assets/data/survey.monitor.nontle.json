@@ -1,0 +1,58 @@
+[
+	{
+		"id": "#SRV-HFGS",
+		"name": "Employee Engagement Survey 2019",
+		"code": "FM-BINUS-AA-FSD-30",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 275,
+		"completion": "266 (97%)",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-CMNZ",
+		"name": "Partnership Satisfaction 2019",
+		"code": "FM-BINUS-AA-FSD-27",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 5,
+		"completion": "4 (80%)",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "05/05/2019",
+		"modified": "05/05/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-JAHS",
+		"name": "Alumni Survey 2019",
+		"code": "FM-BINUS-AA-FSD-11/R1",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 2.042,
+		"completion": "2.001 (98%)",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "03/11/2019",
+		"modified": "03/11/2019",
+		"status": "Open"
+	},
+	{
+		"id": "#SRV-MXKJ",
+		"name": "Double Degree Student Satisfaction",
+		"code": "FM-BINUS-AA-FSD-10/R3",
+		"period": "(05/10/2019 - 06/10/2019)",
+		"population": 876,
+		"completion": "867 (99%)",
+		"description": "",
+		"type": 1,
+		"creator": 1,
+		"created": "02/28/2019",
+		"modified": "02/28/2019",
+		"status": "Open"
+	}
+]
